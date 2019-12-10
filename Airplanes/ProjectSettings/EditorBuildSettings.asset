@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Aircreaft/Scenes/MainMenu.unity
+    guid: a82972ef520405d42a6b451d65ab86f2
+  - enabled: 1
+    path: Assets/Aircreaft/Scenes/Desert.unity
+    guid: 8861802767385444a8796bf58a874e22
+  - enabled: 1
+    path: Assets/Aircreaft/Scenes/DesertNight.unity
+    guid: b7c7072c79ba4b64d91b8df83793fb87
+  - enabled: 1
+    path: Assets/Aircreaft/Scenes/NeonCity.unity
+    guid: a7bfe6aacf17cee4684f07c076208299
+  m_configObjects: {}
